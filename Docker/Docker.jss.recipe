@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Docker and imports it into your JSS.</string>
 	<key>Identifier</key>
-	<string>com.github.jss-recipes.jss.Docker</string>
+	<string>com.github.zacharysfisher.jss.Docker</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>
